@@ -1,5 +1,8 @@
 # Ember CLI Async Button
 
+## NOTE ##
+This repository is a mirror from the [dockyard/ember-cli-async-button](https://github.com/dockyard/ember-cli-async-button) that we currently need in a project. We will delete this repo when a new version has been published to npm.
+
 [See a demo](http://jsbin.com/qokogasilu/1)
 
 [![Build](https://travis-ci.org/dockyard/ember-cli-async-button.svg?branch=master)](https://travis-ci.org/dockyard/ember-cli-async-button)
